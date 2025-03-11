@@ -67,6 +67,6 @@ TOTAL FUND FOR PRIZE : $19,000
 
 Prizes for Top-Ranking Teams in this Competition:
 
-1st Place: $10,000
-2nd Place x 2: $3000 each
-3rd Place x 3: $1000 each
+1st Place: $10,000  
+2nd Place x 2: $3000 each  
+3rd Place x 3: $1000 each  
