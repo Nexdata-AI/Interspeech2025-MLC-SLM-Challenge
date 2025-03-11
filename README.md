@@ -68,4 +68,4 @@ For any other information about registration, please send Email to: mlc-slmw@nex
 2nd Place(x2): $3000 each  
 3rd Place(x3): $1000 each  
 
-##More details：https://www.nexdata.ai/competition
+## More details：https://www.nexdata.ai/competition
