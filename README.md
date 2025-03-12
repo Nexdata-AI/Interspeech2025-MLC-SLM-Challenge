@@ -62,4 +62,4 @@ To participate, registration is required. Please upload signed Data use agreemen
 
 For any other information about registration, please send Email to: mlc-slmw@nexdata.ai
 
-## More details：https://www.nexdata.ai/competition
+## More details：https://www.nexdata.ai/competition/mlc-slm
