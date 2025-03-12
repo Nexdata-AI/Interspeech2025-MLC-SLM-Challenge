@@ -62,10 +62,4 @@ To participate, registration is required. Please upload signed Data use agreemen
 
 For any other information about registration, please send Email to: mlc-slmw@nexdata.ai
 
-## Prize Pool
-
-1st Place: $10,000  
-2nd Place(x2): $3000 each  
-3rd Place(x3): $1000 each  
-
 ## More details：https://www.nexdata.ai/competition
