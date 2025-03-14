@@ -107,7 +107,7 @@ New Datasets: Creation of new datasets, both real and synthetic, for training sp
 ## Data Access and Usage
 Registered participants will be given access to the training and testing datasets. They must sign a data use agreement (see below), agree to confidentiality and comply with the data protection agreement. The datasets will only be used for the purpose of the workshop challenge, and redistribution or any other use is strictly prohibited. It is the responsibility of the participant to protect the data from unauthorized access.
 
-[Data use agreement](https://docs.google.com/forms/d/e/1FAIpQLSftZCRQQWvO5NZd-bPo1VT2Xsaieu_ZYCklw6MhW6LqjWnuYQ/viewform?usp=send_form)
+[Data use agreement](https://www.nexdata.ai/nexdata/static/file/doc/Data-use-agreement-nexdata.docx)
 
 ## Registration
 To participate, registration is required. Please upload signed Data use agreement and complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSftZCRQQWvO5NZd-bPo1VT2Xsaieu_ZYCklw6MhW6LqjWnuYQ/viewform?usp=send_form) The challenge begins on March 10, 2025.
