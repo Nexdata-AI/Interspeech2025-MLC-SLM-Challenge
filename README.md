@@ -123,10 +123,10 @@ Will be released soon.
 Will be released soon.
 
 ## Prize Pool
-Prizes for Top-Ranking Teams in this Competition(each task):
-1st Place:$5,000   
-2nd Place:$3,000   
-3rd Place:$2,000   
+Prizes for Top-Ranking Teams in this Competition(each task):   
+1st Place:$5,000      
+2nd Place:$3,000      
+3rd Place:$2,000      
 
 ## Organizers
 Lei Xie, Professor, Northwestern Polytechnical University (China)   
