@@ -78,19 +78,30 @@ Participants can access the dataset by signing the Data use agreement and submit
 ## Rules
 All participants must adhere to the following rules to be eligible for the challenge.   
 Use of External Resource: For both Track I and Track II, the use of external datasets and pre-trained models (including speech foundation models and LLMs) is permitted. All external resources utilized must be freely accessible to all research groups and should be clearly indicated in the final system report.   
-Data augmentation: Data augmentation is allowed on the released training set and may include, but is not limited to, the addition of noise or reverberation, speed perturbation, and tone modification.   
-Prohibition of Evaluation Sets Usage: The use of evaluation sets in any form of non-compliance is strictly prohibited. This includes, but is not limited to, using evaluation sets for fine-tuning or training the model.   
+
+Data augmentation: Data augmentation is allowed on the released training set and may include, but is not limited to, the addition of noise or reverberation, speed perturbation, and tone modification.  
+
+Prohibition of Evaluation Sets Usage: The use of evaluation sets in any form of non-compliance is strictly prohibited. This includes, but is not limited to, using evaluation sets for fine-tuning or training the model.  
+
 Multi-System Fusion: Participants are NOT allowed to employ system fusion in either Task I and Task II. Submitted results must be derived from a single model rather than through result fusion.   
-Submission Requirement：All participations are required to submit their system. The submission may include final results, models and a Docker that can directly perform inference to obtain the final results, etc. Detailed submission instructions will be provided following the release of the baseline implementation. Please note that we will publicly disclose the name of teams and their affiliated institutions that confirmed participation but did not submit any files.   
+
+Submission Requirement：All participations are required to submit their system. The submission may include final results, models and a Docker that can directly perform inference to obtain the final results, etc. Detailed submission instructions will be provided following the release of the baseline implementation. Please note that we will publicly disclose the name of teams and their affiliated institutions that confirmed participation but did not submit any files. 
+
 Organizer's Interpretation: The organizers reserve the right to make the final interpretation of these rules. In special circumstances, the organizers will coordinate the interpretation as needed.
 
 ## Other Topics
 In addition to challenge system descriptions, participants are encouraged to submit research papers that showcase innovative findings, practical case studies, and forward-looking ideas. Topics of interest include, but are not limited to:   
+
 Novel Architectures and Algorithms: Development of new architectures and algorithms for training SLMs.   
-Audio Data Processing Pipelines: Innovative pipelines for processing raw audio data that facilitate the collection of diverse internet data for training SLMs.   
+
+Audio Data Processing Pipelines: Innovative pipelines for processing raw audio data that facilitate the collection of diverse internet data for training SLMs. 
+
 Natural and Emotionally Rich Speech Generation: Algorithms designed to generate more natural and emotionally expressive conversational speech for dialogue systems.   
-Leveraging Multi-Turn Conversational History: Approaches that utilize multi-turn conversational history to enhance recognition and diarization results.   
+
+Leveraging Multi-Turn Conversational History: Approaches that utilize multi-turn conversational history to enhance recognition and diarization results.  
+
 Evaluation Techniques and Benchmarks: Innovative evaluation techniques or benchmarks specifically tailored for assessing SLMs.   
+
 New Datasets: Creation of new datasets, both real and synthetic, for training speech and audio language models.   
 
 ## Data Access and Usage
@@ -118,14 +129,14 @@ Prizes for Top-Ranking Teams in this Competition(each task):
 3rd Place:$2,000   
 
 ## Organizers
-Lei Xie, Professor, Northwestern Polytechnical University (China)
-Shinji Watanabe, Associate Professor, Carnegie Mellon University (USA)
-Eng Siong Chng, Associate Professor, Nanyang Technological University (Singapore)
-Junlan Feng, IEEE Fellow & Chief Scientist, China Mobile (China)
-Khalid Choukri, Secretary General, European Language Resources Association (France)
-Qiangze Feng, Co-founder & Data Scientist, Nexdata (USA)
-Daliang Wang, Data Scientist, Nexdata (USA)
-Hexin Liu, Postdoctoral Researcher, Nanyang Technological University (Singapore)
-Pengcheng Guo, PhD Student, Northwestern Polytechnical University (China)
-Bingshen Mu, PhD Student, Northwestern Polytechnical University (China)
-Zhaokai Sun, Master Student, Northwestern Polytechnical University (China)
+Lei Xie, Professor, Northwestern Polytechnical University (China)   
+Shinji Watanabe, Associate Professor, Carnegie Mellon University (USA)   
+Eng Siong Chng, Associate Professor, Nanyang Technological University (Singapore)   
+Junlan Feng, IEEE Fellow & Chief Scientist, China Mobile (China)   
+Khalid Choukri, Secretary General, European Language Resources Association (France)   
+Qiangze Feng, Co-founder & Data Scientist, Nexdata (USA)   
+Daliang Wang, Data Scientist, Nexdata (USA)   
+Hexin Liu, Postdoctoral Researcher, Nanyang Technological University (Singapore)   
+Pengcheng Guo, PhD Student, Northwestern Polytechnical University (China)   
+Bingshen Mu, PhD Student, Northwestern Polytechnical University (China)   
+Zhaokai Sun, Master Student, Northwestern Polytechnical University (China)   
