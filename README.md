@@ -57,6 +57,12 @@ Recorded in quiet indoor environments using devices such as iPhone.
 
 The English dataset comprises approximately 500 hours of recordings from various regions, including British, American, Australian, Indian, and Philippine English. Other languages contribute around 100 hours each, resulting in a total of approximately 1500 hours of multilingual conversational speech data.
 
+## Prize Pool
+Prizes for Top-Ranking Teams in this Competition(each task):
+1st Place:$5,000   
+2nd Place:$3,000   
+3rd Place:$2,000   
+
 ## Registration
 To participate, registration is required. Please upload signed Data use agreement and complete the [registration form](https://docs.google.com/forms/d/e/1FAIpQLSftZCRQQWvO5NZd-bPo1VT2Xsaieu_ZYCklw6MhW6LqjWnuYQ/viewform?usp=send_form) before April 1, 2025. Note that this does not means the challenge starts on April 1, 2025. The challenge begins on February 20, 2025.
 
