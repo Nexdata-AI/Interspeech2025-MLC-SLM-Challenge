@@ -38,7 +38,7 @@ March 10, 2025: Registration opens
 
 March 15, 2025: Training data release
 
-March 20, 2025: Development set and baseline system release
+April 1, 2025: Development set and baseline system release
 
 May 15, 2025: Evaluation set release and leaderboard open
 
